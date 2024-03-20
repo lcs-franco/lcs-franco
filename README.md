@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello 👋, I'm Lucas! A passionate Devoloper student from Brazil.</p>
+<p align="left">Hello 👋, I'm Lucas! A passionate full stack developer from Brazil.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br><br>🔭 I am looking for my first job opportunity. My dream is to one day be a senior developer.</p>
+<p align="left">✨ Creating bugs since 2022<br><br>🔭 I'm on the hunt for professional growth, aiming for seniority.</p>
 
 ###
 
