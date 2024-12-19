@@ -17,7 +17,7 @@ I'm **Lucas**, a tech enthusiast who loves to learn about new things and **full 
 <h2 align="left">Currently working with</h2>
 
 <div align="left">
-  <img src="  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript logo"  />
   <img width="6" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript logo"  />
   <img width="6" />
