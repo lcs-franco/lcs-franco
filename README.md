@@ -37,3 +37,12 @@ I'm **Lucas**, a tech enthusiast who loves to learn about new things and **full 
   <img width="6" />
   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernets logo"  />
 </div>
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lcs-franco&show_icons=true&theme=dark" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcs-franco&theme=dark&layout=compact" />
+</p>
