@@ -1,48 +1,24 @@
-<img align="left" src="https://orhun.dev/img/crow.png">
+<h1 align="center">What's up! 👋 Lucas Franco here</h1>
 
-### Hey!
-
-I'm **Lucas**, a tech enthusiast who loves to learn about new things and **full stack** developer from Brazil.
-
-<br>
-<br>
-
-###
-
-<h2 align="left">About</h2>
-<p align="left">✨ Creating bugs since 2022<br>🔭 I'm on the hunt for professional growth, aiming for seniority.</p>
-
-###
-
-<h2 align="left">Currently working with</h2>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="nestjs logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernets logo"  />
+<div align="center">
+  <h3 align="center">Full Stack Engineer</h3>
+  <div align='center' style='display:inline-block;margin-bottom:15px'>
+    <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  </div>
 </div>
+<br>
 
-## 📊 GitHub Stats
+```diff
++ 🔭 I’m always studying and mastering JS/TS ecosystem!
++ 👨‍💻 I venture into developing personal projects to study new techs.
+- 🛠️ Currently studying: Infraestructue as code.
+! 📫 Feel free to get in touch!
+```
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lcs-franco&show_icons=true&theme=dark" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcs-franco&theme=dark&layout=compact" />
-</p>
+<div align="center">
+  <br>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=lcs-franco&theme=black-ice&hide_border=true&background=DD272700" />
+</div>
