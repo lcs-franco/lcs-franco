@@ -14,7 +14,6 @@
 ```diff
 + 🔭 I’m always studying and mastering JS/TS ecosystem!
 + 👨‍💻 I venture into developing personal projects to study new techs.
-- 🛠️ Currently studying: Golang.
 ! 📫 Feel free to get in touch!
 ```
 
